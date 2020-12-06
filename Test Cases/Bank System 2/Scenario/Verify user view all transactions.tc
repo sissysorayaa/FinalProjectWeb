@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify user view all transactions</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>643bc3c2-e951-42bd-80c5-cd3ebf15e8c9</testCaseGuid>
+</TestCaseEntity>

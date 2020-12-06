@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify user view my orders list</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c282d7ce-b9b7-45a8-9140-1265cc30772e</testCaseGuid>
+</TestCaseEntity>
